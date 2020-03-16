@@ -17,3 +17,6 @@ For other days, if before 4PM ships today…
 …if after 4PM ships tomorrow
 Please note the “date(‘N’)” and the “date(‘H’)” functions, which in PHP they respectively give me the current day of the week and current hour of the day so I can compare them with local & current time. Also look into “date_default_timezone_set()” function in case you want to set a different timezone, which is vital for this snippet’s calculations.
 
+# Note:
+This code add into function.php in your theme folder.
+
