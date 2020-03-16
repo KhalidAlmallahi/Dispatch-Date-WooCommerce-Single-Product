@@ -1,9 +1,7 @@
 /**
  * @snippet       Dispatch Date @ WooCommerce Single Product
- * @how-to        Get CustomizeWoo.com FREE
- * @author        Rodolfo Melogli
+ * @author        Khalid Almallahi
  * @testedwith    WooCommerce 3.9
- * @donate $9     https://businessbloomer.com/bloomer-armada/
  */
  
 add_action( 'woocommerce_after_add_to_cart_form', 'kotsh_dispatch_info_single_product' );
